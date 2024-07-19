@@ -864,10 +864,10 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@stellar/prettier-config@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@stellar/prettier-config/-/prettier-config-1.0.1.tgz#498a66dc13c66859e3787dabdf958233ddbe9253"
-  integrity sha512-w9OPycQp1XGfmHC2VUHe5shpZjNFRlmsRBaK7IHvOvVpglzV2QNJsVFh8RdLREWA0mzF59AWvQbyUCCJLPfdWw==
+"@stellar/prettier-config@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@stellar/prettier-config/-/prettier-config-1.2.0.tgz#b27c411e0c4c63b2d76332c239084e682c37468f"
+  integrity sha512-oL9qJ7+7aWnImpbcldroQrvtMCZ9yx4JL/tmDZ860RpBQd2ahkc8bX6/k2ehFK8gpb9ltYu4mtU49wufUuYhGg==
 
 "@types/events@*":
   version "3.0.0"
@@ -4073,9 +4073,9 @@ path-key@^3.0.0:
   integrity sha512-8cChqz0RP6SHJkMt48FW0A7+qUOn+OsnOsVtzI59tZ8m+5bCSk7hzwET0pulwOM2YMn9J1efb07KB9l9f30SGg==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^1.0.0:
   version "1.1.0"
